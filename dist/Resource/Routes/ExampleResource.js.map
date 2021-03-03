@@ -1,0 +1,1 @@
+{"version":3,"file":"ExampleResource.js","sourceRoot":"","sources":["../../../src/Resource/Routes/ExampleResource.ts"],"names":[],"mappings":";;AACA,MAAM,MAAM,GAAG,MAAM,CAAC;AAEtB,MAAM,qBAAqB,GAAG;IAC1B,IAAI,EAAE,GAAG,MAAM,EAAE;IACjB,GAAG,EAAE,GAAG,MAAM,EAAE;CACnB,CAAA;AAED,kBAAe,qBAAqB,CAAC"}
