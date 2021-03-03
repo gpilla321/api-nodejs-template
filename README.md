@@ -1,19 +1,22 @@
 ## NodeJS With Express
-# Controller
+### Controller
   Controller layer
   
-# Service Layer
+### Service Layer
   Service layer to handle bussiness logic
   
-# Repository Pattern
+### Repository Pattern
   Repository pattern handling database connection and data
   
-# Unit tests
+### Unit tests
   Unit tests with Jest
   
-# Interfaces everywhere
+### Interfaces everywhere
   Why not? 
   
-# Typescript
+### Typescript
   Types are great.
   
+
+#### npm install
+#### npm start
